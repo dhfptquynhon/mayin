@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DevicePrinter/static/css/main.40df058f.css",
-    "main.js": "/DevicePrinter/static/js/main.961bcdb3.js",
-    "index.html": "/DevicePrinter/index.html",
-    "main.40df058f.css.map": "/DevicePrinter/static/css/main.40df058f.css.map",
-    "main.961bcdb3.js.map": "/DevicePrinter/static/js/main.961bcdb3.js.map"
+    "main.css": "/mayin/static/css/main.40df058f.css",
+    "main.js": "/mayin/static/js/main.961bcdb3.js",
+    "index.html": "/mayin/index.html",
+    "main.40df058f.css.map": "/mayin/static/css/main.40df058f.css.map",
+    "main.961bcdb3.js.map": "/mayin/static/js/main.961bcdb3.js.map"
   },
   "entrypoints": [
     "static/css/main.40df058f.css",
