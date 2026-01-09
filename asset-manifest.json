@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mayin/static/css/main.40df058f.css",
-    "main.js": "/mayin/static/js/main.961bcdb3.js",
+    "main.js": "/mayin/static/js/main.30e1a445.js",
     "index.html": "/mayin/index.html",
     "main.40df058f.css.map": "/mayin/static/css/main.40df058f.css.map",
-    "main.961bcdb3.js.map": "/mayin/static/js/main.961bcdb3.js.map"
+    "main.30e1a445.js.map": "/mayin/static/js/main.30e1a445.js.map"
   },
   "entrypoints": [
     "static/css/main.40df058f.css",
-    "static/js/main.961bcdb3.js"
+    "static/js/main.30e1a445.js"
   ]
 }
