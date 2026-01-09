@@ -1,5 +1,5 @@
 {
-  "name": "DevicePrinter",
+  "name": "mayin",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -19,7 +19,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://dhfptquynhon-create.github.io/DevicePrinter",
+  "homepage": "https://dhfptquynhon.github.io/mayin",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
