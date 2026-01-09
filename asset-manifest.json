@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DevicePrinter/static/css/main.40df058f.css",
+    "main.js": "/DevicePrinter/static/js/main.961bcdb3.js",
+    "index.html": "/DevicePrinter/index.html",
+    "main.40df058f.css.map": "/DevicePrinter/static/css/main.40df058f.css.map",
+    "main.961bcdb3.js.map": "/DevicePrinter/static/js/main.961bcdb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40df058f.css",
+    "static/js/main.961bcdb3.js"
+  ]
+}
