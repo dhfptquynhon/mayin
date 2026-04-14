@@ -89,7 +89,7 @@ const PrinterList = () => {
   // Driver URLs
   const driverUrls = {
     "CANON MF465DW": "https://vn.canon/vi/support/imageCLASS%20MF465dw/model",
-    "CANON MF 244DW": "https://drive.google.com/file/d/1EQUza81I5Tb6dj7gqaHP65YLYXbua0EI/view?usp=sharing",
+    "CANON MF244DW": "https://drive.google.com/file/d/1EQUza81I5Tb6dj7gqaHP65YLYXbua0EI/view?usp=sharing",
     "HP LaserJet Pro M404DW": "https://drive.google.com/file/d/1ivYdOH2aLfq_brIyyGs4hIcXwOEx5jsh/view?usp=sharing",
     "IN MÀU EPSON L8050": "https://www.epson.com.vn/Ink-Tank-Printers/L-Series/Epson-L8050/s/SPT_C11CK37501",
     "IN THẺ ENTRUST SIGMA DS2": "https://drive.google.com/file/d/1oev7Yec9TCf7LY7GDE9dD41tL-uB9sGP/view?usp=sharing",
@@ -100,7 +100,7 @@ const PrinterList = () => {
   // Manual URLs
   const manualUrls = {
     "CANON MF465DW": "https://docs.google.com/document/d/11LzfIwuVsuh-WigtfP_1a7FOCCsrevXw/edit",
-    "CANON MF 244DW": "https://drive.google.com/drive/folders/10NEl1d0aQklubo1ADqThQn192Y4f5I99?usp=sharing",
+    "CANON MF244DW": "https://drive.google.com/drive/folders/10NEl1d0aQklubo1ADqThQn192Y4f5I99?usp=sharing",
     "HP LaserJet Pro M404DW": "https://drive.google.com/file/d/1WeE7sByF2RNz-wKsbqa5ny0uvikEr70D/view?usp=sharing",
     "IN MÀU EPSON L8050": "https://drive.google.com/file/d/1eQKau0M5hCvabr95In9MEfGFgQE54r_-/view?usp=sharing",
     "IN THẺ ENTRUST SIGMA DS2": "https://drive.google.com/file/d/1t8PnGPcGxXyceALP8ZciJqkA0TrSaJXz/view?usp=sharing",
